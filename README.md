@@ -1,0 +1,1 @@
+Engineered a 10-year time-series analysis pipeline on UPI transaction data, deploying ADF stationarity testing and seasonal-trend decomposition to isolate India's UPI adoption trend from true seasonal patterns.
